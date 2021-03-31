@@ -1,0 +1,1 @@
+# NDK_Android.mk
